@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini Image Editor",
+  "description": "An application to upload an image, remove its background, generate various views (front, side, back) with a green screen, and create T-pose versions using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
